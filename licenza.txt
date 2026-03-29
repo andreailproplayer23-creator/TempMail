@@ -1,0 +1,17 @@
+CONTRATTO DI LICENZA CON L'UTENTE FINALE (EULA) - TempMail
+
+1. CONCESSIONE DELLA LICENZA: L'autore concede all'utente una licenza non esclusiva 
+per l'utilizzo del software TempMail.
+
+2. RESTRIZIONI: L'utente non può:
+   a) Decompilare, disassemblare o tentare di derivare il codice sorgente del Software.
+   b) Vendere, noleggiare o sublicenziare il Software senza autorizzazione scritta.
+   c) Utilizzare il software per attività illecite che violino i termini di servizio di Mail.tm.
+
+3. ESCLUSIONE DI GARANZIA: Il software è fornito "così com'è", senza garanzie di alcun tipo. 
+L'autore non è responsabile per eventuali danni derivanti dall'uso del software.
+
+4. PRIVACY: Il software non raccoglie dati personali. Le sessioni sono salvate localmente 
+nel file 'session.db'.
+
+5. TERMINE: Questa licenza è valida fino alla risoluzione da parte dell'utente (disinstallazione).
