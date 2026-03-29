@@ -26,7 +26,7 @@ Se desideri avviare il progetto dai sorgenti, avrai bisogno di:
 ---
 
 ## 🚀 Installazione
-Per gli utenti Windows, è disponibile un comodo installer nella sezione [Releases](https://github.com/andreailproplayer23-creator/CaveauDigitale/releases).
+Per gli utenti Windows, è disponibile un comodo installer nella sezione [Releases](https://github.com/andreailproplayer23-creator/TempMail/releases).
 1. Scarica `TempMail_Setup.exe`.
 2. Esegui l'installer e segui le istruzioni.
 3. Avvia TempMail dal desktop o dal menu Start.
@@ -34,7 +34,7 @@ Per gli utenti Windows, è disponibile un comodo installer nella sezione [Releas
 ---
 
 ## 📄 Licenza
-Questo progetto è distribuito sotto la licenza inclusa nel file `license.txt`.
+Questo progetto è distribuito sotto la licenza inclusa nel file `licenza.txt`.
 
 ---
 
